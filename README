@@ -1,0 +1,3 @@
+Regression model to predict home prices.
+
+Deploy model using Django, Docker, CircleCI, AWS, Heroku.
